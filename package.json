@@ -2,7 +2,8 @@
 	"name": "vscode-whitespace-replacer",
 	"displayName": "vscode-whitespace-replacer",
 	"description": "Replace escaped whitespaces",
-	"version": "0.0.1",
+	"publisher": "bendiknesbo",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.57.0"
 	},
