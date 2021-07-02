@@ -10,14 +10,19 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:vscode-whitespace-replacer.helloWorld"
+		"onCommand:vscode-whitespace-replacer.replaceEscapedWhitespace",
+		"onCommand:vscode-whitespace-replacer.escapeWhitespace"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "vscode-whitespace-replacer.helloWorld",
-				"title": "Hello World"
+				"command": "vscode-whitespace-replacer.replaceEscapedWhitespace",
+				"title": "Replace escaped whitespace (\\\\n -> \\n)"
+			},
+			{
+				"command": "vscode-whitespace-replacer.escapeWhitespace",
+				"title": "Escape whitespace (\\n -> \\\\n)"
 			}
 		]
 	},
