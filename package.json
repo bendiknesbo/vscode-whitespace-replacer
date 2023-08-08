@@ -3,7 +3,7 @@
 	"displayName": "vscode-whitespace-replacer",
 	"description": "Replace escaped whitespaces",
 	"publisher": "bendiknesbo",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/bendiknesbo/vscode-whitespace-replacer.git"

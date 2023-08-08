@@ -4,6 +4,10 @@ All notable changes to the "vscode-whitespace-replacer" extension will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [v1.0.1]
+
+- Moved to personal repo
+
+## [v1.0.0]
 
 - Initial release
