@@ -6,7 +6,7 @@
 	"version": "1.0.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/bendiktv2/vscode-whitespace-replacer.git"
+		"url": "https://github.com/bendiknesbo/vscode-whitespace-replacer.git"
 	},
 	"engines": {
 		"vscode": "^1.57.0"
