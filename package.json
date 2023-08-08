@@ -2,7 +2,7 @@
 	"name": "vscode-whitespace-replacer",
 	"displayName": "vscode-whitespace-replacer",
 	"description": "Replace escaped whitespaces",
-	"publisher": "bendiknesbo",
+	"publisher": "BendikNesboe",
 	"version": "1.0.1",
 	"repository": {
 		"type": "git",
@@ -37,7 +37,8 @@
 		"watch": "tsc -watch -p ./",
 		"pretest": "npm run compile && npm run lint",
 		"lint": "eslint src --ext ts",
-		"test": "node ./out/test/runTest.js"
+		"test": "node ./out/test/runTest.js",
+		"package": "vsce package"
 	},
 	"devDependencies": {
 		"@types/vscode": "^1.57.0",
